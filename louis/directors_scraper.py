@@ -31,5 +31,6 @@ print(directors)
 np.savetxt("best_directors.csv", 
            directors,
            delimiter =", ", 
-           fmt ='% s')
+           fmt ='% s',
+           header='director_name')
 

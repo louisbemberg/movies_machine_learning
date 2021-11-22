@@ -20,4 +20,5 @@ print(actors)
 np.savetxt("best_actors.csv", 
            actors,
            delimiter =", ", 
-           fmt ='% s')
+           fmt ='% s',
+           header='actor_name')
