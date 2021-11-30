@@ -1,0 +1,3 @@
+final_dataset: contains the data cleaned up by Al+Es+Mou+Ah
+final_dataset_v2: final_dataset with added budget & revenue
+final_dataset_v3: movies who have both budget & revenue > 0
