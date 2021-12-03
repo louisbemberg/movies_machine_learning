@@ -1,4 +1,4 @@
-tconst,primaryTitle,originalTitle,isAdult,startYear,runtimeMinutes,Adult,Animation,Fantasy,Game-Show,History,Music,Musical,News,Reality-TV,Sci-Fi,Short,Sport,Talk-Show,War,Western,averageRating,numVotes,budget,revenue,isTopActor,isTopDirector,yearsSinceProduced
+tconst,primaryTitle,originalTitle,isAdult,startYear,runtimeMinutes,Adult,Animation,Fantasy,GameShow,History,Music,Musical,News,RealityTV,SciFi,Short,Sport,TalkShow,War,Western,averageRating,numVotes,budget,revenue,isTopActor,isTopDirector,yearsSinceProduced
 tt0035423,Kate & Leopold,Kate & Leopold,0,2001,118,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.4,81936.0,48000000,76019048,1,0,20
 tt0116391,Gang,Gang,0,2000,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.2,236.0,30000000,41480851,0,0,21
 tt0118589,Glitter,Glitter,0,2001,104,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2.3,23292.0,22000000,5271666,0,0,20

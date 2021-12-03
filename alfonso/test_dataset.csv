@@ -1,4 +1,4 @@
-tconst,primaryTitle,originalTitle,isAdult,startYear,runtimeMinutes,Adult,Animation,Fantasy,Game-Show,History,Music,Musical,News,Reality-TV,Sci-Fi,Short,Sport,Talk-Show,War,Western,averageRating,numVotes,budget,revenue,isTopActor,isTopDirector,yearsSinceProduced
+tconst,primaryTitle,originalTitle,isAdult,startYear,runtimeMinutes,Adult,Animation,Fantasy,GameShow,History,Music,Musical,News,RealityTV,SciFi,Short,Sport,TalkShow,War,Western,averageRating,numVotes,budget,revenue,isTopActor,isTopDirector,yearsSinceProduced
 tt0293429,Mortal Kombat,Mortal Kombat,0,2021,110,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,6.1,150542.0,20000000,83601013,0,0,0
 tt0315642,Wazir,Wazir,0,2016,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.2,18426.0,5200000,9200000,0,0,5
 tt0385887,Motherless Brooklyn,Motherless Brooklyn,0,2019,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.8,51825.0,26000000,18377736,1,0,2
